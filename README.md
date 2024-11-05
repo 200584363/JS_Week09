@@ -79,6 +79,7 @@ Files:
 - admin.js – JavaScript file containing the Admin class logic.
 
 # File Structure
+```bash
 200584363/JS_Week09/
 ├── q1_player.html        # HTML file for Q1 (Player Class)
 ├── player.js             # JavaScript for Q1 (Player Class)
@@ -86,7 +87,7 @@ Files:
 ├── user.js               # JavaScript for Q2 (User Class)
 ├── q3_admin.html         # HTML file for Q3 (Admin Class)
 └── admin.js              # JavaScript for Q3 (Admin Class)
-
+```
 # Contributing
 Contributions are welcome! If you'd like to improve the project or fix any issues:
 
